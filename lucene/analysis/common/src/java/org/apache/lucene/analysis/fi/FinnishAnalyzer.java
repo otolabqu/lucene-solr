@@ -43,7 +43,7 @@ import org.tartarus.snowball.ext.FinnishStemmer;
 public final class FinnishAnalyzer extends StopwordAnalyzerBase {
   private final CharArraySet stemExclusionSet;
   
-  /** File containing default Italian stopwords. */
+  /** File containing default Finnish stopwords. */
   public final static String DEFAULT_STOPWORD_FILE = "finnish_stop.txt";
   
   /**
